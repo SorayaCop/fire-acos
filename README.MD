@@ -2,7 +2,7 @@
 
 <h2 align="center">Fire Aços - Serralheria</h2>
 
-Fire Aços é um site de portfólio totalmente responsivo, para todos os dispositivos, usando HTML, CSS, JavaScript e Bootstrap.  
+Fire Aços é um site estático de portfólio totalmente responsivo, para demostrar habilidades de FrontEnd.  
 
 <a href="https://sorayacop.github.io/fire-acos/"><strong>➥ Live Demo</strong></a>
 
